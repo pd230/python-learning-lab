@@ -1,57 +1,71 @@
-python-data-learning-lab/
-│
-├── README.md
-├── CONTRIBUTING.md
-├── requirements.txt
-├── LICENSE
-│
-├── Python_Fundamentals/
-│   ├── 01_variables_and_data_types.ipynb
-│   ├── 02_operators.ipynb
-│   ├── 03_strings.ipynb
-│   ├── 04_lists.ipynb
-│   ├── 05_tuples.ipynb
-│   ├── 06_sets.ipynb
-│   ├── 07_dictionaries.ipynb
-│   ├── 08_loops.ipynb
-│   ├── 09_functions.ipynb
-│   ├── 10_comprehensions.ipynb
-│   ├── 11_exception_handling.ipynb
-│   ├── 12_oop.ipynb
-│   └── 13_file_handling.ipynb
-│
-├── Problem_Solving/
-│   ├── Easy/
-│   ├── Intermediate/
-│   └── Advanced/
-│
-├── NumPy/
-│   ├── 01_array_basics.ipynb
-│   ├── 02_indexing_and_slicing.ipynb
-│   ├── 03_array_operations.ipynb
-│   ├── 04_broadcasting.ipynb
-│   ├── 05_aggregation.ipynb
-│   └── 06_practice_problems.ipynb
-│
-├── Pandas/
-│   ├── 01_series_and_dataframe.ipynb
-│   ├── 02_reading_data.ipynb
-│   ├── 03_data_selection.ipynb
-│   ├── 04_filtering.ipynb
-│   ├── 05_missing_values.ipynb
-│   ├── 06_data_cleaning.ipynb
-│   ├── 07_groupby_and_aggregation.ipynb
-│   ├── 08_merging_and_joining.ipynb
-│   ├── 09_datetime_operations.ipynb
-│   ├── 10_string_operations.ipynb
-│   └── 11_practice_projects.ipynb
-│
-├── Data_Analysis_Projects/
-│   ├── Project_01/
-│   └── Project_02/
-│
-└── Data_Engineering_Exercises/
-    ├── csv_processing/
-    ├── json_processing/
-    ├── data_validation/
-    └── ETL_with_python/
+# 🐍 Python Data Learning Lab
+
+A hands-on learning repository documenting my journey of learning Python for **Data Analytics and Data Engineering**.
+
+This repository contains concept explanations, coding examples, practice problems, Jupyter notebooks, mini-projects and lessons learned while building my programming skills.
+
+## 🎯 Goals
+
+- Strengthen Python fundamentals.
+- Practice problem-solving and logical thinking.
+- Learn NumPy for numerical computing.
+- Learn Pandas for data manipulation and analysis.
+- Apply Python to real-world datasets.
+- Develop skills relevant to Data Analytics and Data Engineering.
+
+## 📚 Learning Roadmap
+
+| Topic | Status |
+|---|---|
+| Python Fundamentals 
+| Problem Solving 
+| NumPy 
+| Pandas 
+| Data Analysis Projects 
+| Python for Data Engineering 
+
+## 📂 Repository Structure
+
+- `Python_Fundamentals` — Core Python concepts and examples
+- `Problem_Solving` — Coding exercises categorized by difficulty
+- `NumPy` — Arrays, operations, broadcasting and numerical computing
+- `Pandas` — Data manipulation, cleaning, analysis and transformations
+- `Data_Analysis_Projects` — Exploratory data analysis projects
+- `Data_Engineering_Exercises` — Data processing, file handling and ETL exercises
+
+## 🧠 How I Practice
+
+Each topic may include:
+
+- Concept explanations
+- Code examples
+- Expected outputs
+- Common mistakes
+- Interview questions
+- Practice problems
+- Personal notes and takeaways
+
+## 🤝 Collaboration
+
+This repository is open to fellow learners and developers!
+
+Contributions are welcome, including:
+
+- New practice questions
+- Better explanations
+- Code improvements
+- NumPy and Pandas exercises
+- Interesting datasets and mini-project ideas
+
+Feel free to open an issue or submit a pull request.
+
+## 🌱 Learning in Public
+
+I'm building this repository step by step as I learn. The goal is not just to collect code, but to understand concepts, practice consistently and become better at solving real-world data problems.
+
+**Learning by doing. Improving by sharing.**
+
+---
+
+📌 Connect with me on [LinkedIn]([https://www.linkedin.com/in/pratiksha-dixit-12b848289/])  
+💻 Explore my other projects on [GitHub]([pd230])
