@@ -15,8 +15,8 @@ This repository contains concept explanations, coding examples, practice problem
 
 ## 📚 Learning Roadmap
 
-| Topic | Status |
-|---|---|
+| Topic |
+|---|
 | Python Fundamentals 
 | Problem Solving 
 | NumPy 
